@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ganesh/static/css/main.32d1e19f.css",
+    "main.js": "/Ganesh/static/js/main.c3672938.js",
+    "static/js/787.bc7d429a.chunk.js": "/Ganesh/static/js/787.bc7d429a.chunk.js",
+    "static/media/image3.png": "/Ganesh/static/media/image3.1d120c09a80191c9a17a.png",
+    "static/media/image4.png": "/Ganesh/static/media/image4.2517bad724c3103e7db3.png",
+    "static/media/image5.png": "/Ganesh/static/media/image5.34d7ca5b7f2eb080ca50.png",
+    "static/media/image6.png": "/Ganesh/static/media/image6.0571d09928e01c649b13.png",
+    "static/media/image8.png": "/Ganesh/static/media/image8.fe50b0640fdb3dc7b0b8.png",
+    "static/media/image1.png": "/Ganesh/static/media/image1.7c635956bb31626efc95.png",
+    "static/media/image2.png": "/Ganesh/static/media/image2.b4c45aa6c46c666191c1.png",
+    "static/media/image7.png": "/Ganesh/static/media/image7.965d76148785d0bccc30.png",
+    "static/media/image10.png": "/Ganesh/static/media/image10.ddb27fde365df567f3da.png",
+    "static/media/Banner.jpg": "/Ganesh/static/media/Banner.7da6946ed876d58e65f4.jpg",
+    "static/media/SketchUp.jpg": "/Ganesh/static/media/SketchUp.cf5fecb6270ea075a0c5.jpg",
+    "static/media/skillsBackground.jpg": "/Ganesh/static/media/skillsBackground.7e8377f88edbeb0d2f16.jpg",
+    "static/media/Ganesh_Pic.jpeg": "/Ganesh/static/media/Ganesh_Pic.f6040e8f6dda6b527075.jpeg",
+    "static/media/AutocadLogo.png": "/Ganesh/static/media/AutocadLogo.edf3261f043e28651bde.png",
+    "static/media/D5.png": "/Ganesh/static/media/D5.e03edbcfa7f1b8cd17de.png",
+    "index.html": "/Ganesh/index.html",
+    "main.32d1e19f.css.map": "/Ganesh/static/css/main.32d1e19f.css.map",
+    "main.c3672938.js.map": "/Ganesh/static/js/main.c3672938.js.map",
+    "787.bc7d429a.chunk.js.map": "/Ganesh/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d1e19f.css",
+    "static/js/main.c3672938.js"
+  ]
+}
