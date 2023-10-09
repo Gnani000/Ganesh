@@ -24,7 +24,7 @@ const Image = ({ altText, text, style }) => {
     left: "55%",
     transform: "translate(-50%, -50%)",
     zIndex: 2, // Set the z-index to a value higher than the image's z-index
-    fontSize: "8rem",
+    fontSize: "7rem",
     color: "#5b5149", 
     fontFamily: "Berlin Sans FB, sans-serif"
     };
